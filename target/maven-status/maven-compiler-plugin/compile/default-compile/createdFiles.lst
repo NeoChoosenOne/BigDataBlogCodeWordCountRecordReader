@@ -1,0 +1,6 @@
+com\darchbps\wordcountbloginput\NSFLineRecordReader.class
+com\darchbps\wordcountbloginput\NSFExecutor.class
+com\cbds\readnotstructuredfiles\FileExtraction.class
+com\darchbps\wordcountbloginput\NSFInputFormat.class
+com\darchbps\wordcountbloginput\NSFExecutor$Reduce.class
+com\darchbps\wordcountbloginput\NSFExecutor$Map.class
